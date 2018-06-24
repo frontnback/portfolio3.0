@@ -67,14 +67,14 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #007bff;
+  color: #000035;
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
 }
 
 #mainNav .navbar-brand:hover, #mainNav .navbar-brand:focus {
-  color: #007bff;
+  color: #000035;
 }
 
 #mainNav .navbar-toggler {
@@ -91,7 +91,7 @@ section h2 {
 }
 
 #mainNav .navbar-nav > li > a.active {
-  color: #007bff !important;
+  color: #000035 !important;
   background-color: transparent;
 }
 
@@ -106,7 +106,7 @@ section h2 {
 
 #mainNav .navbar-nav > li > a:hover,
 #mainNav .navbar-nav > li > a:focus:hover {
-  color: #007bff;
+  color: #000035;
 }
 
 @media (min-width: 992px) {
@@ -154,9 +154,9 @@ header.masthead {
   padding-top: 150px;
   padding-bottom: 100px;
   color: white;
-  background: url("../img/bg-pattern.png"), #007bff;
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #007bff, #009688);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #007bff, #009688);
+  background: url("../img/bg-pattern.png"), #000035;
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #000035, #009688);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #000035, #009688);
 }
 
 header.masthead .header-content {
@@ -398,13 +398,13 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 }
 
 .bg-primary {
-  background: #fdcc52;
-  background: -webkit-linear-gradient(#fdcc52, #fdc539);
-  background: linear-gradient(#fdcc52, #fdc539);
+  background: #000035;
+  background: -webkit-linear-gradient(#000035, #000035);
+  background: linear-gradient(#000035, #000035);
 }
 
 .text-primary {
-  color: #fdcc52;
+  color: #000035;
 }
 
 .no-gutter > [class*='col-'] {
@@ -420,8 +420,8 @@ footer ul li a:hover, footer ul li a:focus, footer ul li a:active, footer ul li 
 
 .btn-outline:hover, .btn-outline:focus, .btn-outline:active, .btn-outline.active {
   color: white;
-  border-color: #fdcc52;
-  background-color: #fdcc52;
+  border-color: #000035;
+  background-color: #000035;
 }
 
 .btn {
